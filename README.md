@@ -1,4 +1,4 @@
-# Letlle-lemon
+# Litlle-lemon
 the Graduation-Project i finished today for the JavaScript course from META
 
 those were my tasks...
