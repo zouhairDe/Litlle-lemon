@@ -1,5 +1,5 @@
 # Litlle-lemon
-the Graduation-Project i finished today for the JavaScript course from META
+the Finishing-Project i for today's JavaScript course from META
 
 those were my tasks...
 
